@@ -1,0 +1,14 @@
+body {
+	  font-family: Arial, Verdana, sans-serif;
+	  background-color: rgb(219,200,217);}
+
+a:link {
+		color: darkblue;
+		text-decoration: none;}
+a:visited {
+	       color: seashell;}
+a:hover {
+		color: yellowgreen;
+ 		text-decoration: underline;}
+a:active {
+   		  color: darkred;}
